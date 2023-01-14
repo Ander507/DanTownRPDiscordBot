@@ -1,6 +1,6 @@
 {
   "name": "dantownrp-discord-bot",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A discord bot for DanTownRP",
   "main": "index.js",
   "scripts": {
